@@ -38,10 +38,6 @@ This project is a banking cash desk terminal application developed using VB.NET 
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For questions or support, please open an issue in the repository.
+For questions or support, please open an issue in the repository. a225212557@unison.mx
